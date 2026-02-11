@@ -85,8 +85,3 @@ streamlit run app.py --server.port 8503
 3. Enable `Use hybrid LLM matching` for hybrid scoring (optional).
 4. Click `Analyze match`.
 5. Review score components, gaps, feedback, and suggestions.
-
-## Notes
-
-- This project is designed for internship-level practical evaluation, not as a replacement for recruiter judgement.
-- API keys are not committed; `.env` is ignored by git.
